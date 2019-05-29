@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "nombre": "Boat Party",
+        "imagen": "trip1.jpg",
+        "descripcion": "Fiesta en el mar con barra libre al atardecer, a bordo de una preciosa galera turca de madera, con barra libre, Dj en directo, animación, baño nocturno y travesía por el Norte de la isla o el Gran Puerto (en función de las condiciones meteorológicas)",
+        "horario": "19:00 a 23:30",
+        "meetingPoint": "En frente del restaurante Blak Sheep en Sliema Ferries",
+        "embarque": "18:15 aprox.",
+        "precio":39
+    },
+    {
+        "id": 2, 
+        "nombre": "Crucero a Comino", 
+        "imagen": "trip2.jpg", 
+        "descripcion":"Crucero en una tradicional galera turca de madera a la isla de Comino con paradas en la Sta. Maria Bay y la Blue Lagoon. En ambas paradas se dispondrá de tiempo libre para disfrutar tanto de la tranquilidad de la playa de Sta. María, como de las cristalinas aguas de la Blue Lagoon. El recorrido incluye la costa este de Malta, el puerto de Mgarr en Gozo y las cuevas más famosas de la isla de Comino.Opcional: alquiler de gafas de snorkel y transporte privado hotel-puerto-hotel (consultar disponibilidad)",
+        "horario": "10:30 a 17:30",
+        "meetingPoint": "Bugibba Jetty",
+        "embarque": "10:00 aprox.",
+        "precio": 19
+    },
+    {
+        "id": 3, 
+        "nombre": "Crucero a Gozo y Comino", 
+        "imagen": "trip3.jpg", 
+        "descripcion": "Día de crucero en una tradicional galera turca de madera que les llevará por la mañana hasta la isla de Gozo, donde realizarán un recorrido con transporte privado de unas dos horas con paradas en la Ciudadela de Victoria, Dwejra Bay, Inland Sea y la basílica de Ta Pinu. De regreso al puerto de Gozo, el barco les llevará a la isla de Comino, en la que dispondrán de otras dos horas para disfrutar de las cristalinas aguas de la Blue Lagoon. El recorrido incluye la costa este de Malta, el puerto de Mgarr en Gozo y las cuevas más famosas de la isla de Comino.Opcional: alquiler de gafas de snorkel y transporte privado hotel-puerto-hotel (consultar disponibilidad). (niños gratis de 0 a 6 años)",
+        "horario": "10:30 a 17:30",
+        "meetingPoint": "Bugibba Jetty",
+        "embarque": "10:00 aprox.",
+        "precio":25
+    },
+    {
+        "id": 4, 
+        "nombre": "Pack Malta Low Cost", 
+        "imagen": "trip4.jpg", 
+        "descripcion":"Reunión informativa y entrega de documentación a su llegada al hotel. Crucero a Comino (Blue Lagoon) con aperitivo frío y barra libre de cerveza, vino y bebidas sin alcohol o ruta en autobús turístico por Malta.", 
+        "descripcion2": "Tour guiado en español por La Valeta (90 minutos).-Fiesta Spanish Friday con brindis y una copa gratis (viernes de 0:00 a 4:30am).- Viajes ilimitados en autobús público por Malta y Gozo.",
+        "descripcion3": "Asistencia y asesoramiento online en español durante todas sus vacaciones.",
+        "precio":59
+    },
+    {
+        "id": 5, 
+        "nombre": "Pack Malta Tour & Party", 
+        "imagen": "trip5.jpg", 
+        "descripcion":"Regalo de bienvenida.Reunión informativa y entrega de documentación a su llegada al hotel. Tour guiado en español por La Valeta (90 minutos).",
+        "descripcion2": "Fiesta Spanish Friday con brindis y una copa gratis (viernes de 0:00 a 4:30am). Viajes ilimitados en autobús público por Malta y Gozo.",
+        "descripcion3": "Crucero a Comino (Blue Lagoon) con aperitivo frío y barra libre de cerveza, vino y bebidas sin alcohol o ruta en autobús turístico por Malta. Boat Party con barra libre. Asistencia y asesoramiento online en español durante todas sus vacaciones.",
+        "precio": 99
+    }
+]

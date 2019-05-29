@@ -1,0 +1,20 @@
+[
+    {
+        "id": "4", 
+        "nombre": "Pack Malta Low Cost", 
+        "imagen": "trip4.jpg", 
+        "descripcion":"Reunión informativa y entrega de documentación a su llegada al hotel. Crucero a Comino (Blue Lagoon) con aperitivo frío y barra libre de cerveza, vino y bebidas sin alcohol o ruta en autobús turístico por Malta.", 
+        "descripcion2": "Tour guiado en español por La Valeta (90 minutos).-Fiesta Spanish Friday con brindis y una copa gratis (viernes de 0:00 a 4:30am).- Viajes ilimitados en autobús público por Malta y Gozo.",
+        "descripcion3": "Asistencia y asesoramiento online en español durante todas sus vacaciones.",
+        "precio":59
+    },
+    {
+        "id": "5", 
+        "nombre": "Pack Malta Tour & Party", 
+        "imagen": "trip5.jpg", 
+        "descripcion":"Regalo de bienvenida. Reunión informativa y entrega de documentación a su llegada al hotel. Tour guiado en español por La Valeta (90 minutos).",
+        "descripcion2": "Fiesta Spanish Friday con brindis y una copa gratis (viernes de 0:00 a 4:30am). Viajes ilimitados en autobús público por Malta y Gozo.",
+        "descripcion3": "Crucero a Comino (Blue Lagoon) con aperitivo frío y barra libre de cerveza, vino y bebidas sin alcohol o ruta en autobús turístico por Malta. Boat Party con barra libre. Asistencia y asesoramiento online en español durante todas sus vacaciones.",
+        "precio": 99
+    }
+]

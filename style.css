@@ -1,0 +1,132 @@
+
+body, h1{
+    margin: 0px;
+}
+.panel-catalogo-productos, .panel-detalle-producto, .panel-pedido-producto{
+    margin: 0 auto;
+    margin-top: 10px;
+}
+.imagen-producto{
+    margin-left: 5%;
+}
+
+.barra-navegacion{
+    margin: 0 auto;
+    border-radius: 0px 0px 5px 5px;
+    margin-top: -1px;
+}
+
+
+.panel-heading, #portada{
+    text-align: center;
+}
+
+#portada{
+    background-color: #f45942;
+    color: #e0b828;
+}
+.formulario-buscador{
+    
+}
+#labelBuscador{
+    margin-right: 5px;
+    
+}
+
+.botones-mostrar{
+    color: black;
+}
+/*****************************ITEM PRODUCTO**********************************/
+.itemCont{
+    margin-top: 15px;
+}
+.panel-item-producto .imagen-producto{
+    height: 156px;
+}
+
+.input-cantidad{
+    width: 45px;
+    height: 33px;
+}
+#input{
+    border-radius: 10px;
+    background-color: whitesmoke;
+}
+
+#precio{
+    text-align: center;
+}
+
+.cantidad{
+    margin: 10px;
+    width: 35px;
+    color: #f45942;
+}
+
+/*****************************PEDIDOS PRODUCTO**********************************/
+.cesta{
+    background-color: gainsboro;
+}
+.panel-pedido-producto .imagen-pedidos{
+    width: 80px;
+}
+
+.btnn{
+    background-color: #e0b828;
+    color: white;
+    border-radius: 20px;
+    width: 48%;
+    margin: 1%;
+    height: 50px;
+}
+
+.boton-pagar{
+    margin-left: 10%;
+}
+
+#botonComprar{
+    width: 90%;
+    margin: 5% 0 10% 5%;
+}
+
+.footer{
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+}
+
+/*****************************contacto-pag**********************************/
+
+#mensajeEnorab, #infoLink{
+    text-align: center;
+    color: red;
+}
+
+#labelContact{
+    margin-top: 1%;
+}
+#contactBoton{
+    background-color: #e0b828;
+    color:#f45942;
+    height: 50px;
+}
+
+.contactoInput{
+    height: 30px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+@media screen and (min-width:1024px) {
+    #portadaText{
+        margin-left: 45%;
+    }
+}
+
+@media screen and (max-width:500px) {
+    .boton-principal{
+        font-size: 85%;
+    }
+}
